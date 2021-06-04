@@ -10,7 +10,7 @@
 
 ![Game Process](https://github.com/coredumpz/Flying-Chicken/blob/main/Gif2/2vid.gif)
 
-* In-Game Images:
+* IN-GAME IMAGES:
 
 ![Game Process](https://github.com/coredumpz/Flying-Chicken/blob/main/Gif2/1.png)
 
