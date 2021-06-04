@@ -1,9 +1,9 @@
 # Flying-Chicken
 
-* This is a basic game that you can play from any integrated development environment(IDE).
-* In the game you can see the board from previous games that you played and you can start a new game on the opening screen.
+* This is a basic game that you can play from any integrated development environment(IDE) that supports JAVA.
+* In the game you can see the score table from previous games that you played and you can start a new game on the opening screen.
 * There are 5 options for the game that you can choose the difficulty (Beginner, Easy, Medium, Hard , Very Hard)
-* You have 5 health that indicates on the left corner on the screen as hearts. 
+* You have 5 health points indicated on the left corner of the screen as hearts.
 * If you can complete the level that you are playing you can pass to the next level.
 * To move the chicken control keys are : W -> Up, A -> Left, S -> Down, D -> Right, Left Click -> Shoot, Space -> Open Parachute
 
